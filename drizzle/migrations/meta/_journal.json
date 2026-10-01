@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1790356895113,
+      "tag": "0000_angulimart_core_schema",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1790357191622,
+      "tag": "0001_angulimart_demo_content",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1790847038819,
+      "tag": "0002_admin_cms_extensions",
+      "breakpoints": true
+    }
+  ]
+}
